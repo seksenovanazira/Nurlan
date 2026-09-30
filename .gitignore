@@ -1,0 +1,8 @@
+Nurlan.txt
+*.token
+.env
+.env.*
+*-backup-*.json
+ltc-original-*.txt
+node_modules/
+preview.png
